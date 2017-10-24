@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <item><shape>
+        <solid android:color="@color/white"></solid>
+    </shape></item>
+    <item>
+        <bitmap android:src="@drawable/story_teller_200dp"
+            android:gravity="center" />
+    </item>
+</layer-list>
